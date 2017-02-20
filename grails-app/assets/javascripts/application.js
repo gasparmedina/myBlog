@@ -16,5 +16,5 @@ if (typeof jQuery !== 'undefined') {
 		}).ajaxStop(function() {
 			$(this).fadeOut();
 		});
-	})(jQuery);
+	})(jQuery);  
 }
